@@ -42,9 +42,9 @@ Saya Memiliki Banyak Fitur Praktis Seperti :
 ┣• Mencari Lagu Yang DiInginkan.
 ┣• Daftar Perintah Lengkap » /help «
 ┗━━━━━━━━━━━━━━
-❃ Dikelola oleh : 
-- [ᴡᴀᴋᴀsᴀ](https://t.me/kibodisini)
-- [ʌʟᴍᴏɴᴅ](https://t.me/imnotactive)
+
+❃ Owner bot : [ᴡᴀᴋᴀsᴀ](https://t.me/kibodisini)
+
 ━━━━━━━━━━━━━━━
 Tambahkan saya ke grub anda..!!
 </b>""",
